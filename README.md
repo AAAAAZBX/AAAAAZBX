@@ -12,6 +12,6 @@
 </p>
 
 
-Hi, I'm a senior undergraduate student at Nanjing Agricultural University. I have recently joined the ISElab (Laboratory of Intelligent Software Engineering) at the School of Software, Nanjing University.
+Hello everyone, I'm a senior undergraduate student at Nanjing Agricultural University. I recently joined the Intelligent Software Engineering Laboratory (ISElab) at the School of Software, Nanjing University.
 
-My primary programming languages ​​are Python and C/C++. My long-term interests focus on Deep Learning, LLM, Agent systems. I have been conducting in-depth research on these technologies for the past few months. I look forward to sharing and exchanging more technical experiences with everyone
+My primary programming languages ​​are Python and C/C++. My long-term research interests focus on Deep Learning, Intelligent Agent Systems, C++ Development, Large Language Models, and Fintech. Over the past few months, I've been deeply engaged in researching these technologies. I look forward to sharing and exchanging more technical experiences with everyone.

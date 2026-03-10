@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLM-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
